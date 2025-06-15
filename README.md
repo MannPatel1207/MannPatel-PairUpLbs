@@ -27,7 +27,7 @@ A full-stack job listing and application portal built with **React + Vite**, **T
 ### 1. Clone the Repository
 
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone [https://github.com/MannPatel1207/MannPatel-PairUpLbs.git](https://github.com/MannPatel1207/MannPatel-PairUpLbs.git)
 cd YOUR_REPO
 \`\`\`
 
@@ -55,7 +55,6 @@ Create \`.env\` files using the following templates.
 
 \`\`\`env
 PORT=5000
-CORS_ORIGIN=http://localhost:5173
 \`\`\`
 
 #### frontend/.env
