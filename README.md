@@ -135,17 +135,6 @@ curl -X POST http://localhost:5000/api/application/2 \\
 
 ---
 
-## 🌍 Deployment
-
-> Deployed on:  
-**Frontend:** Vercel  
-**Backend:** Render / Railway
-
-\`\`\`txt
-🔗 Live App: https://your-frontend.vercel.app
-\`\`\`
-
----
 
 ## 🙌 Author
 
